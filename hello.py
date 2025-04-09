@@ -1,2 +1,1 @@
-print("hello nlp!!!")
-
+print("This is my last choice. I only have 5 days to learn DL and NLP. ")
